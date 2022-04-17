@@ -344,7 +344,7 @@ form input, form textarea {
 }
 
 
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 780px) {
 h1 {
 	font-size: 40px;
 }
