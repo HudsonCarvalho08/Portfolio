@@ -384,6 +384,7 @@ button {
 
 .analise-image {
 	width: 800px;
+	width: 100vw;
 }
 
 #java {
