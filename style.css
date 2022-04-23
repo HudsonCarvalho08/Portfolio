@@ -277,6 +277,24 @@ a {
 	font-style: italic;
 }
 
+.portifolio2 {
+	display: inline-block;
+	position: relative;
+	box-sizing: border-box;
+	border: 2px solid black;
+	border-radius: 10px;
+	padding: 35px;
+	width: 15%;
+	font-style: italic;
+	margin: 5px 10px 20px 30px;
+
+}
+
+.portifoliotexto {
+	margin: 20.5px;
+	border: 200px;
+}
+
 .graduacao {
 
 	font-style: italic;
@@ -362,6 +380,12 @@ h1 {
 	width: 35%;
 	border-radius: 50px;
 }
+
+.portifolio2 {
+	width: 65%;
+	border-radius: 40000px;
+}
+
 
 p {
 	font-size: 30px;
