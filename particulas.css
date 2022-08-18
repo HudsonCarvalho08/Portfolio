@@ -41,3 +41,29 @@ h1
     text-decoration: none;
     color: black;
 }
+
+@media screen and (max-width: 780px) {
+
+  
+   #particles-js {
+    width: 1550px;
+   }
+
+   
+   h1 {
+    top:35%;
+    right: 15%;
+   }
+   
+   .button {
+    top: 65%;
+    left: 95%;
+    border-radius: 20%;
+   }
+
+    
+    
+
+
+ 
+}
